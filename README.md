@@ -37,5 +37,10 @@ Python and the following packages:
 * sklearn
 ![image](https://github.com/Gauravgade3/Real-Time-Face-Emotion-Recognition/blob/main/images/Screenshot%202022-03-22%20103022.jpg)
 Since there was an soft limit size of 300MB on heroku colud platform to perfectly deploy and run the model through app. My model size was around 492MB because of which i can only deploy the app but couldn't run perfectly. So this can be solved by providing some more extra space or by further reducing the slug size of model if possible.
+
+# Demo Video Captures
+![image](https://github.com/Gauravgade3/Real-Time-Face-Emotion-Recognition/blob/main/images/Emotion%20Detector%2022-03-2022%2011_19_23.png)
+![image](https://github.com/Gauravgade3/Real-Time-Face-Emotion-Recognition/blob/main/images/Emotion%20Detector%2022-03-2022%2011_19_35.png)
+![image](https://github.com/Gauravgade3/Real-Time-Face-Emotion-Recognition/blob/main/images/Emotion%20Detector%2022-03-2022%2011_20_35.png)
 # Here is my deployed app link :
 https://face-emotion-recognition1.herokuapp.com/
